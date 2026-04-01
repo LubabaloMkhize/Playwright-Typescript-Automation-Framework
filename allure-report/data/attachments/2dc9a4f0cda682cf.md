@@ -1,0 +1,44 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - img "NTA Logo" [ref=e7] [cursor=pointer]
+      - generic [ref=e8]:
+        - button "🏠 Home" [ref=e9] [cursor=pointer]:
+          - generic [ref=e10]: 🏠
+          - generic [ref=e11]: Home
+        - button "📖 About Us" [ref=e12] [cursor=pointer]:
+          - generic [ref=e13]: 📖
+          - generic [ref=e14]: About Us
+        - button "⭐ Testimonials" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: ⭐
+          - generic [ref=e17]: Testimonials
+        - button "📚 Learn ▼" [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]: 📚
+          - generic [ref=e21]: Learn
+          - generic [ref=e22]: ▼
+        - button "👥 Community ▼" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: 👥
+          - generic [ref=e26]: Community
+          - generic [ref=e27]: ▼
+        - button "🔗 Connect ▼" [ref=e29] [cursor=pointer]:
+          - generic [ref=e30]: 🔗
+          - generic [ref=e31]: Connect
+          - generic [ref=e32]: ▼
+  - main [ref=e33]:
+    - generic [ref=e35]:
+      - generic [ref=e37]: 🔒
+      - heading "Login to Access Learning Materials" [level=2] [ref=e38]
+      - textbox "Email" [ref=e39]: Tatalo.Mkhize@example.com
+      - generic [ref=e40]:
+        - textbox "Password" [ref=e41]: England@123456
+        - button "Show password" [ref=e42] [cursor=pointer]:
+          - img [ref=e43]
+      - button "Login" [ref=e46] [cursor=pointer]
+      - button "Forgot Password?" [ref=e48] [cursor=pointer]
+      - generic [ref=e49]:
+        - text: Don't have an account?
+        - button "Sign Up Here" [ref=e50] [cursor=pointer]
+```

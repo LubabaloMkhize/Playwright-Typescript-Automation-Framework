@@ -1,0 +1,81 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - img "NTA Logo" [ref=e7] [cursor=pointer]
+      - generic [ref=e8]:
+        - button "🏠 Home" [ref=e9] [cursor=pointer]:
+          - generic [ref=e10]: 🏠
+          - generic [ref=e11]: Home
+        - button "📖 About Us" [ref=e12] [cursor=pointer]:
+          - generic [ref=e13]: 📖
+          - generic [ref=e14]: About Us
+        - button "⭐ Testimonials" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: ⭐
+          - generic [ref=e17]: Testimonials
+        - button "📚 Learn ▼" [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]: 📚
+          - generic [ref=e21]: Learn
+          - generic [ref=e22]: ▼
+        - button "👥 Community ▼" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: 👥
+          - generic [ref=e26]: Community
+          - generic [ref=e27]: ▼
+        - button "🔗 Connect ▼" [ref=e29] [cursor=pointer]:
+          - generic [ref=e30]: 🔗
+          - generic [ref=e31]: Connect
+          - generic [ref=e32]: ▼
+      - button "🔑 Login" [active] [ref=e34] [cursor=pointer]:
+        - generic [ref=e35]: 🔑
+        - generic [ref=e36]: Login
+  - main [ref=e37]:
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - generic [ref=e40]: "2026"
+        - heading "Master Test Automation" [level=1] [ref=e41]
+        - paragraph [ref=e42]: The Future of Quality Engineering Starts Here
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]: 1000+
+          - generic [ref=e46]: Students Trained
+        - generic [ref=e47]:
+          - generic [ref=e48]: 100%
+          - generic [ref=e49]: Success Rate
+        - generic [ref=e50]:
+          - generic [ref=e51]: 10+
+          - generic [ref=e52]: Years Experience
+      - generic [ref=e53]:
+        - generic [ref=e54] [cursor=pointer]:
+          - generic [ref=e55]: 🚀
+          - heading "Hands-on Projects" [level=3] [ref=e56]
+          - paragraph [ref=e57]: Build real-world automation frameworks from day one with industry-standard tools.
+        - generic [ref=e58] [cursor=pointer]:
+          - generic [ref=e59]: 🎯
+          - heading "Job-Ready Skills" [level=3] [ref=e60]
+          - paragraph [ref=e61]: Learn exactly what employers are looking for in 2026 and beyond.
+        - generic [ref=e62] [cursor=pointer]:
+          - generic [ref=e63]: 🤖
+          - heading "AI-Powered Learning" [level=3] [ref=e64]
+          - paragraph [ref=e65]: Leverage cutting-edge AI tools to accelerate your learning journey.
+        - generic [ref=e66] [cursor=pointer]:
+          - generic [ref=e67]: 💎
+          - heading "Affordable Excellence" [level=3] [ref=e68]
+          - paragraph [ref=e69]: Premium quality education accessible to everyone, anywhere.
+      - generic [ref=e70]:
+        - heading "Ready to Transform Your Career?" [level=2] [ref=e71]
+        - paragraph [ref=e72]: Join hundreds of successful automation engineers who started here
+        - button "Start Learning Today →" [ref=e73] [cursor=pointer]
+      - generic [ref=e74]:
+        - text: "\""
+        - paragraph [ref=e75]: The community and support from Nkosi and fellow students kept me motivated. I'm now working as a test automation engineer at a top tech company!
+        - text: — Sherpard, Test Automation Engineer
+        - button "Read More Stories" [ref=e76] [cursor=pointer]
+      - generic [ref=e77]:
+        - img "Instructor" [ref=e78]
+        - generic [ref=e79]:
+          - heading "Nkosi Cele" [level=3] [ref=e80]
+          - text: Pipeline Trigger • Lead Instructor
+          - paragraph [ref=e81]: 10+ years in automation & testing at enterprise scale
+```
